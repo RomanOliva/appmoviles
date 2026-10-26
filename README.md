@@ -38,9 +38,15 @@ Dale al botón Run
 Los usuarios de prueba falsos, los cuales comparten una contraseña de prueba: 123456
 
 Administrador (TI)	ti@mpaz.test
+
 Responsable	luis@mpaz.test
+
 Responsable	marta@mpaz.test
+
 Solicitante	andrea@mpaz.test
+
 Solicitante	jorge@mpaz.test
+
 Solicitante	paula@mpaz.test
+
 
